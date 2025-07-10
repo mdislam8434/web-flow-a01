@@ -10,11 +10,6 @@ body {
 
 }
 
-.main-header {
-    background-image: url(Assets/Hero-bg.png);
-    height: 698px;
-}
-
 .main-header nav {
     display: flex;
     justify-content: space-between;
